@@ -1,0 +1,24 @@
+//declaring the grade of student where fail, pass marks , average marks , destinction
+
+
+
+ begin
+       
+        declare the variables marks
+        read the marks of the student
+        if (marks>90)
+         {
+        print ("Distiction")
+         }
+        if (marks<90) 
+         { 
+        print ( "Average")
+        }
+        if (marks>30)
+         { 
+        print  (" Pass")
+       else
+        { 
+         print (" fail")
+         }
+   stop 

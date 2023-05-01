@@ -1,0 +1,35 @@
+       Alogrithm on ATM transaction/ Withdrawing amount
+
+step 1: start
+step 2: Open ATM transaction
+step 3: Display Insert ATM card( after inserting card)
+step 4: if the card is new one you have to generate new pin.
+       4.1 generate the new pin using otp which is sent tp your mobile phone.
+       4.2: you will be asked to create a new pin, you can reset/create a new pin.
+          else proceed with the (step 5)
+step 5: it Displays Banking,Transfer,Service ,Mini statement,Mobile Registration
+step 6: if You want to WITHDRAW cash then go to banking
+             6.1 Then is shows enter your 4 digit ATM PIN 
+                   if the pin is correct ,it goes to the step (6.2)
+                      else 
+                     it show re-enter the pin
+             6.2  After entering the PIN, it will display cash withdrawal,balance enquiry,deposit,PIN change ,other
+             6.3  if we want to withdraw the cash then select CASH WITHDRAWAL
+             6.4   it will display FROM CURRENT,FROM SAVINGS           
+             6.5    go with any of the option as per your requirements
+             6.6    then it will display PLEASE ENTER AMOUNT(after entering amount)
+             6.7    it will show PRESS YES/PRESS NO
+                       if YES , it will show the transcation is being processed and collect the cash, take the reciept
+                        else
+                       it will shows re-enter the amount
+                 
+               
+                              
+
+step 6:Stop       
+       
+
+             
+
+              
+        

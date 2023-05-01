@@ -1,0 +1,27 @@
+//psuedo code on current bill
+
+
+begin
+float bill_amount,present_ units,previous_units
+print("enter the bill amount")
+input bill_amount
+ 
+actual_units= present_units-previous units
+
+   if Actual_units<=50{
+      bill_amount=actual_units*2.3
+   }
+      else if{
+         Actual_units>50
+       bill_amount=(actual_units*2.3)+Actual_units*3.5}
+       else{
+         Actual_units<=150
+       bill_amount=(actual_units*2.3)+(Actual_units*3.5)+(Actual_units*4.5)}
+}
+Actual_units>=250
+{
+       bill_amount=(actual_units*2.3)+(Actual_units*3.5)+(Actual_units*4.5)}
+}
+
+
+      

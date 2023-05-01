@@ -1,0 +1,47 @@
+//psuedo code to print student grades for internal, external and project marks,out of 100 students. 
+  
+
+
+begin
+numeric internal_marks,external_marks,Project_marks,total_marks;
+print("enter the internal marks,external marks and external marks")
+input internal_marks
+input external_marks
+input project_marks
+
+if(internal_marks>=50 && external_marks>=50 && project_marks>=50)
+    {
+    total_marks=(internal_marks)*10)/100+(external_marks*20)/100+(project_mark*70)/100
+      } 
+     if(total_marks>=90)
+                    {
+   print(" Grade A")
+       }
+      else if(total_score<=90 && total_marks>=70)
+      {
+        print("grade B")
+         }
+          else )
+           { 
+           print("grade C")
+          } 
+          
+else{
+if (internal_marks<50){
+print("failed in internals and marks is",internal_marks)
+}
+       if(external_marks<50){
+              print("failed in external and marks is ",external_marks)
+        }
+       if(project_marks<50){
+              print("failed in Project and score is ",project_marks)
+        
+}
+ 
+end
+
+
+    
+
+
+

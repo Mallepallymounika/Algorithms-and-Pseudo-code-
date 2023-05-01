@@ -1,0 +1,29 @@
+
+     //  Algorithm on College Management System
+
+
+step1: start
+step2: Open College management system portal
+step3: Displays login page for admin 
+step4: Enter admin login  details
+       if login details are correct it displays as login successful and redirect to home page
+           else 
+            login again by re-entering correct login details , after successful login it will redirect to home page
+      
+step5: After successful login ,Displays the modules like a) student
+                                                         b) Faculty 
+                                                         
+step6: if admin selects Student module , it displays the details of the students like 
+     step6.1: list of students will be displayed 
+     step6.2: Admin can update the student details like attendence,marks,etc
+     step6.3: Admin can check the details of the student fees
+     step6.4: Admin can check performance and progress of the student
+     step6.5: Admin can add academic calendar 
+     step6.6: Admin can see feedback of the student
+step7: if admin selects faculty module , it displays the details of the faculty like
+     step7.1: list of the faculty will be display
+     step7.2:Admin can update the faculy details like leaves,salary,etc
+     step7.3:Admin can assign time table to the faculty
+     step7.4:Admin can check performance of the faculty based on student feedback
+     step7.5:Admin can add  academic calendar
+step8:stop  

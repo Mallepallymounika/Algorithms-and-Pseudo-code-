@@ -1,0 +1,29 @@
+//Algorithm on estimating minimum number of notes
+   step1 : Start
+   step2: read 500,200,100
+   step2: initialize 500notes,200notes,100notes=0,amount=0
+   step3:  execute the below steps;      
+             print " mini amount"    
+           a)if (amount>=500)
+              {
+                no.of500 notes=amount/500;
+                mini notes = mini no.of 500 notes+500;
+                  amount = amount %100
+                
+                }
+            b) if(amount >=200)
+              { 
+                no.of 200 notes=amount/200;
+                 mini notes=  mini no.of 200 notes+200;
+                 amount = amount %100
+                } 
+            c) if(amount >=100)
+               {
+                no.of 100 notes=amount/100;
+                 mini notes=n0.of 100 notes+100;
+                 amount = amount %100
+                }  
+               else
+              print "amount will not dispenced"
+                 ` 
+     step: stop

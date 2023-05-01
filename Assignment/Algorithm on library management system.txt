@@ -1,0 +1,39 @@
+       //Alogorithm on Library management system
+      
+Step 1: Start
+Step 2: Open Library Management System
+Step 3: Display login page for admin/ student
+Step 4: Enter admin/Student login  details
+        if login details are correct it displays as login successful and redirect to home page
+           else 
+            login again by re-entering correct login details , after successful login it will redirect to home page
+Step 5:  After successful login 
+Step 6:  if the login details were admin then show the modules like
+             6.1  Add books
+             6.2  add publication
+             6.3  Delete books
+             6.4  Search books
+             6.5  Issue books
+             6.6  Return books
+             6.7  View books
+             6.8  Student/Book report
+             6.9  Issue/Return book report
+             6.10 panalty for book
+Step 7: if the login details were Student then show the modules like
+             7.1  Show my Account ( open your account)
+             7.2  Search book( using Author name , book title ,number on the book's spine, subject name ) 
+             7.3  Issue book record
+             7.4  Return book record
+             7.5  Panalty report
+             7.6  Change password
+Step 8 : Logout  
+Step 9 : Stop
+
+    
+   
+  
+           
+               
+
+               
+               

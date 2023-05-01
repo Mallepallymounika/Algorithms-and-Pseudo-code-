@@ -1,0 +1,41 @@
+begin
+numeric employee_salary
+print("enter employee salary)
+input employee_salary
+ if(employee_salary>=700000)
+{
+ print("No tds")
+ }​​
+    else
+        {​​​​​​​
+    if(employee_salary<=3,00,000)
+    {​​​​​​​
+       tds=(5*employee_salary)/100
+       print("TDS is",tds)
+        }​​​​​​​
+    else if(employee_salary<=6,00,000)
+        {​​​​​​​
+           tds=(5*employee_salary)/100+(10*employee_salary)/100
+       print("TDS is",tds)
+        }​​​​​​​
+    else if(employee_salary<=9,00,000)
+    {​​​​​​​
+       tds=((5*employee_salary)/100)+((10*employee_salary)/100)+((15*employee_salary)/100)
+       print("TDS is",tds)
+        }​​​​​​​
+        else if(employee_salary<=12,00,000)
+    {​​​​​​​
+       tds=((5*employee_salary)/100)+((10*employee_salary)/100)+((15*employee_salary)/100)+((20*employee_salary)/100)
+           print("TDS is",tds)
+        }​​​​​​​
+    else
+    {​​​​​​​
+       tds=((5*employee_salary)/100)+((10*employee_salary)/100)+((15*employee_salary)/100)+((20*employee_salary)/100)+((30*employee_salary)/100)
+           print("TDS is",tds)
+        ​​​​​​​
+        }​​​
+end
+
+
+
+

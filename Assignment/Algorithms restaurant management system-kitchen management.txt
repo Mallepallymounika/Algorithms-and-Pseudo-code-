@@ -1,0 +1,46 @@
+    // Algorithms on restaurant management system-Order management.
+
+  Step 1: Start
+  Step 2: open restaurant management system portal
+  Step 3: go to Order management
+  step 4: if the customer is new then register to the portal
+            else 
+          continue with the login 
+         4.1: if login details are correct the proceed with  step 5
+             else 
+              go to re-login
+ step 5:  display takeaway/dine in
+         if we select take away then display menu
+        5.1: Select the items and add to the cart
+        5.2: display the selected item and confirm it
+          else 
+        5.3: select dinein
+        5.4: it display the table arrangement, select the table
+        5.5: it Display menu
+        5.6: select the item and confirm it
+        5.7: the order will be delivered to the table
+        5.8: displays the total amount to be payed
+        5.9: Displays the payment option like Cash/card/UPI
+        5.10: if we select cash then proceed with the cash payment
+             
+               elseif
+
+        5.11: select UPI
+        5.12: enter UPI id/ number
+        5.13: Select bank account
+        
+             else
+ 
+        5.14: select card option
+        5.15: Enter card PIN
+       
+          5.16: Then Enter total amount to be payed 
+          5.17: if payment is successful 
+                 then display DONE
+                 else 
+                 go to the step 5.10 and repeat the steps
+          5.18: Display review/Feedback and the give reviews/feedback
+step 6: Stop
+          
+      
+          

@@ -1,0 +1,30 @@
+
+//Write a psuedo code for calculating the price of a mobile phone with 20% of GST on total
+price
+
+1) Start
+2) read price
+3)initializing total price=0
+4) Execute the below steps  
+    a) if (price>100000)
+        {
+         gst=(20*price/100)
+        discount =(price/100)*10
+        total price = price-discount+ gst
+          }
+    b) if (price<50000)
+           {
+         gst=(20*price/100)
+        discount =(price/100)*5
+     total price = price-discount+ gst
+       
+            }
+      c) if (price>50000)
+       {
+         gst=(20*price/100)
+        discount =(price/100)*2
+        total price = price-discount + gst
+       
+          }
+       print (" total price of the mobile phone")
+   5) stop

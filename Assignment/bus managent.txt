@@ -1,0 +1,46 @@
+
+    
+//Algorithm for Bus Management/Tracking System
+
+
+Step 1:Start
+Step 2:Go to the Website/App
+Step 3:It display the options New user/Log in/Forget Password
+Step 4:If it is a New User then we need to Sign up
+       else if Already have an account then Sign in
+       else click on Forgot Password
+Step 5:After Sucessfull Login you will be directed to the Home Page
+step 6:It displays the Modules like 
+        a)Instant E-Ticket generator/Bus Booking 
+        b)Tracking of Bus Status
+        c)Courier Services/Cargo Services
+        d)Help Line
+Step 7:If we click on Instant E-Ticket generator/Bus Booking it will display options like 
+            i)Select pickup point and drop point
+           ii)Show the availability of Buses based on Requirements
+          iii)Schedule of Buses
+           iv)Select the bus as per User Convenience
+                v)display the Seating arrangement and select as per the availability 
+           vi)Display the total Amount
+          vii)Verify and Proceed to payment(UPI/Card/Net Banking)
+         viii)After Sucessful payment Ticket will be generated and it will be sent to a Registered Mobile number/E-Mail 
+Step 8:If we click on Tracking of Bus status it will display options like 
+           i)Contact details of the Bus driver
+          ii)Location of the Bus
+         iii)Speed of a Bus
+          iv)Arrival and Departure time of the Bus 
+Step 9:If we click on Courier Service it will display options like
+            i)Measure the Weight of the Package 
+            ii)Enter the destination/Receiver details 
+          iii)Display the total amount
+           iv)Verify and Proceed to payment(UPI/Card/Net Banking) 
+            v)After Sucessful payment Tracking ID will be generated and sent to Receiver and Sender
+Step 10:If we click on Help Line it will display options like
+           i)Payment related issues
+          ii)Ticket Cancellation policy
+         iii)Contact to Customer Support Team
+          iv)Report an issue
+Step 11:Stop        
+
+
+
